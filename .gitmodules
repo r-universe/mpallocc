@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "autoGO"]
 	path = autoGO
 	url = https://github.com/mpallocc/auto-go
-	shallow = true
-	registered = true
